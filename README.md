@@ -1,4 +1,4 @@
-# UICollcetionViewDemo 机智的新手 
+# UICollcetionViewDemo Will
 #类似新浪视首页
 #存在bug
 
